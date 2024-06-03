@@ -61,6 +61,7 @@ Version Control
 
   - [Kebede-C-Mammo](https://github.com/Kebede-C-Mammo) Database Engineering
   - [Kenneth Paige] - Meta Front-End Developer Professional Certificate
+  - [Kellie G] - Meta Front-End Developer Professional Certificate
 
 - ### **L**
 
